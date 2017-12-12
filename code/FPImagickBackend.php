@@ -1,4 +1,7 @@
 <?php
+
+namespace JonoM\FocusPoint;
+
 if(class_exists('Imagick')) {
     class FPImagickBackend extends ImagickBackend {
         /**

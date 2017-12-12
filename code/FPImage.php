@@ -1,5 +1,9 @@
 <?php
 
+namespace JonoM\FocusPoint;
+
+use SilverStripe\Assets\Image;
+
 /**
  * Override default cropping methods with FocusPoint versions
  *

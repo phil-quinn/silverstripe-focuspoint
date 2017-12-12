@@ -1,5 +1,12 @@
 <?php
 
+namespace JonoM\FocusPoint;
+
+use SilverStripe\Assets\Image;
+use SilverStripe\Control\Director;
+use SilverStripe\Forms\FieldGroup;
+use SilverStripe\View\Requirements;
+
 /**
  * FocusPointField class.
  * Facilitates the selection of a focus point on an image.
